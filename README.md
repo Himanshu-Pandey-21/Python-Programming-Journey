@@ -52,7 +52,7 @@ The goal is to build strong fundamentals that can be applied to larger software 
 
 ## Learning Philosophy
 
-> Learn the fundamentals. Understand the problem. Build the solution. Refactor it. Repeat.
+> Learn the fundamentals. Understand the problem. Build the solution. Refactor it. Repeat it.
 
 This repository will evolve as I continue exploring software engineering, backend development, databases, and larger real-world projects.
 
